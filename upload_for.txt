@@ -1,0 +1,4 @@
+first.last@colorado.edu
+first1.last2@colorado.edu
+first3.last3@colorado.edu
+fila2018@colorado.edu
